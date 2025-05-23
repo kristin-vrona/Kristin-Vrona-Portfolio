@@ -1,9 +1,7 @@
 # Configs
 
-theme: jekyll-theme-primer
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+
+
 
 
 title: "Kristin Vrona"
@@ -15,10 +13,6 @@ repository: "kristin-vrona/Kristin-Vrona-Portfolio"
 header:
   image: /assets/images/Vrona Kristin.jpeg
 
-theme: jekyll-theme-primer
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
 
 include:
@@ -42,10 +36,15 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
+bundle install
+bundle exec jekyll serve
+
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "contrast"
+
+
 
 # settings for author profile
 author:
