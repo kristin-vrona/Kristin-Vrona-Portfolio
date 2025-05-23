@@ -8,23 +8,19 @@ header:
 
 <img src="https://github.com/kristin-vrona/Kristin-Vrona-Portfolio/blob/master/assets/images/Envrion headshot.jpeg?raw=true" width="50%" hspace="20" align="right">
 
-*This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
+My name is Kristin Vrona. I recently earned my Ph.D. in Economics from Northern Illinois University, where I also completed my M.A. in Economics. I specialize in labor economics and applied econometrics, with a research focus that integrates health economics and public policy analysis.
 
-My name is Kristin Vrona. I recently graduated with my doctorate in economics from Northern Illinois University, where I also obtained my master's degree in economics previously. 
+I am currently on the job market and open to interview opportunities and willing to discuss relocation.
 
-# I am currently on the job market and available for interviews. I am willing to relocate.
+### Field Background
 
-My doctoral degree specializations are labor economics and applied econometrics, which I have combined with health economics and public policy analysis to construct my dissertation. I also have conducted secondary research in strategy & game theory, and look forward to sharpening these skills in the future.  
+With over ten years of experience in big data management, I have a passion for extracting and compiling complex datasets, building narratives through data visualization, and applying econometric methods to assess real-world outcomes. My work often bridges the gap between raw data and actionable insight by automating visual reports and incorporating macroeconomic and institution-specific factors into predictive analyses.
 
+My field experience includes supporting the effective allocation of $59 million in public funding and driving significant cost-saving initiatives in the private sector through process improvement and strategic analysis.
 
-
-### Background
-
-I have over 10 years of expereince in big data management, and I quite enjoy data extraction, compilation, and narrative building using data visualizations. I have experience automating data visualization reports and using econometric methods to examine the projected real-life outcome to contrast to the raw data visualizations. I enjoy bringing clarity and consicesness both in terms of what could happen and what is predicted to happen based on previous data as well as macroeconomics and institutional-specific factors.
-
-My field experience includes the effective allocation of $59M in public funding as well as significantly improving cost savings numbers in the private sector. process improvements resulting in major cost savings in the private sector. 
+I have also conducted secondary research in game theory and strategic behavior and look forward to continuing to develop these skills.
 
 
-### Interests
+### Outside of Work
 
-In my spare time I train in Brazilian Jiu-Jitsu, write and perform music, and enjoy taking long nature walks.  
+In my spare time I train in Brazilian Jiu-Jitsu, write and perform music, and enjoy taking long walks outdoors.  
