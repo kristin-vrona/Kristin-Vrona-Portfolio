@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-   - title: "Resume"
+   - title: "Curriculum Vitae"
     url: /assets/docs/Vrona,K_RESUME25.pdf
   - title: "Research"
     url: /portfolio/
