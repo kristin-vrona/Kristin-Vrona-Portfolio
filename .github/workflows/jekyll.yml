@@ -26,6 +26,29 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y git build-essential curl libssl-dev zlib1g-dev
+
+      - name: Install ruby-build
+        run: |
+          git clone https://github.com/rbenv/ruby-build.git ~/.ruby-build
+          sudo ~/.ruby-build/install.sh
+
+      - name: Install Ruby
+        env:
+          RUBY_VERSION: 3.1.0 # Update this to the version you need
+        run: |
+          ruby-build $RUBY_VERSION $RUNNER_TOOL_CACHE/$RUBY_VERSION
+          echo "$RUNNER_TOOL_CACHE/$RUBY_VERSION/bin" >> $GITHUB_PATH
+
+      - name: Verify Ruby installation
+        run: ruby --version
+
 jobs:
   # Build job
   build:
