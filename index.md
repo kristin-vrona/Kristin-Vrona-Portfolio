@@ -10,7 +10,7 @@ header:
 
 My name is Kristin Vrona. I recently earned my Ph.D. in Economics from Northern Illinois University, where I also completed my M.A. in Economics. I specialize in labor economics and applied econometrics, with a research focus that integrates health economics and public policy analysis.
 
-**I am currently on the job market and open to interview opportunities and willing to discuss relocation.**
+**I am currently on the job market and open to interviews. I am also willing to discuss relocation.**
 
 ### Field Background
 
