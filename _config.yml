@@ -1,5 +1,11 @@
 # Configs
 
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+
 title: "Kristin Vrona"
 name: "Homepage for Kristin Vrona"
 email: "kristin.vrona@gmail.com"
@@ -8,6 +14,12 @@ baseurl: "/Kristin-Vrona-Portfolio"
 repository: "kristin-vrona/Kristin-Vrona-Portfolio"
 header:
   image: /assets/images/Vrona Kristin.jpeg
+
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 
 include:
   - _pages
