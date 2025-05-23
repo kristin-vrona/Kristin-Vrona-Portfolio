@@ -4,8 +4,6 @@ main:
     url: /
    - title: "Resume"
     url: /assets/docs/Vrona,K_RESUME25.pdf
-  - title: "Curriculum Vitae"
-    url: /assets/docs/Vrona,K_CV2025.pdf
   - title: "Research"
     url: /portfolio/
   - title: "Teaching"
