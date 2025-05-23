@@ -49,7 +49,6 @@ jobs:
       - name: Verify Ruby installation
         run: ruby --version
 
-jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
