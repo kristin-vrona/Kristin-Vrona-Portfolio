@@ -6,14 +6,12 @@
 
 title: "Kristin Vrona"
 name: "Homepage for Kristin Vrona"
-email: "kristin.vrona@gmail.com"
+email: kristin.vrona@gmail.com
 url: "https://kristin-vrona.github.io"
 baseurl: "/Kristin-Vrona-Portfolio"
 repository: "kristin-vrona/Kristin-Vrona-Portfolio"
 header:
   image: /assets/images/Vrona Kristin.jpeg
-
-
 
 include:
   - _pages
@@ -36,15 +34,10 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-bundle install
-bundle exec jekyll serve
-
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "contrast"
-
-
 
 # settings for author profile
 author:
@@ -53,7 +46,7 @@ author:
   bio    : "My name is Kristin Vrona, I hold a doctorate in Economics. I have experience in consulting, policy analysis, and logistics."
   location: "Sycamore, Illinois"
   github : 
-  linkedin: "kristin-vrona" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
+  linkedin: "/kristin-vrona" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
   email  : 
 
 
@@ -107,3 +100,4 @@ defaults:
 collections:
   portfolio:
     output: true
+
