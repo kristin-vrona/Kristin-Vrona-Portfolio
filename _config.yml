@@ -1,4 +1,4 @@
-# Configss
+# Configs
 
 
 
@@ -46,7 +46,7 @@ author:
   bio    : "My name is Kristin Vrona, I hold a doctorate in Economics. I have experience in consulting, policy analysis, and logistics."
   location: "Sycamore, Illinois"
   github : 
-  linkedin: "/kristin-vrona" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
+  linkedin: "kristin-vrona" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
   email  : 
 
 
